@@ -1,0 +1,29 @@
+body{
+    margin: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.avatar
+{
+    width: 250px;
+    height: 250px;
+}
+.nav-wrapper
+{
+    background: #ddebf8;
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    margin: 0px auto;
+    border-bottom: 5px solid #d8cefe;
+    padding: 10px;
+    text-align: center;
+}
+/* .center
+{
+    text-align: center;
+} */
+
+
+
+
